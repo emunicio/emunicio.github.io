@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Telecommunication Engineer and PhD in Computer Science. I am currently working as a Postdoctoral Researcher at imec - University of Antwerp, in the context of ultra-reliable IoT networks and end-to-end network programmability through SDN, network orchestration, TSN and network slicing techniques.
 
-I received a B.Sc+M.Sc. in Telecommunication Engineering from Universidad Politécnica de Madrid (UPM) in 2013 and a M.Sc in Networks and Computer Systems from the Universidad Rey Juan Carlos (URJC) in 2014. I obtained a PhD in Computer Science at Universiteit Antwerpen in 2020. I am (and have been) involved in some European research projects such as FP7 TUCAN3G, Celtic+ FlexNet, H2020 ProTego, H2020 InterConnect, H2020 Vital-5G and H2020 DAEMON.
+I received a B.Sc+M.Sc. in Telecommunication Engineering from Universidad Politécnica de Madrid (UPM) in 2013 and a M.Sc in Networks and Computer Systems from the Universidad Rey Juan Carlos (URJC) in 2014. I got a PhD in Computer Science at Universiteit Antwerpen in 2020. I am (and have been) involved in some European research projects such as FP7 TUCAN3G, Celtic+ FlexNet, H2020 ProTego, H2020 InterConnect, H2020 Vital-5G and H2020 DAEMON.
 
 I have published about 30 research papers in various peer-reviewed journals and conferences. My main research interests are: traffic engineering and network slicing, SDN, programmable wireless networks, TSN and ultra-reliable Industrial IoT. I am also interested in testbed experimentation, community networks and connectivity provision in challenging environments.
 
