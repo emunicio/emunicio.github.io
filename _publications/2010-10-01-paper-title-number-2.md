@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Achieving End-to-End Connectivity in Global Multi-Domain Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2021-05-10-achieving21
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2021-05-10
+venue: 'IEEE INFOCOM 2021-IEEE Conference on Computer Communications Workshops'
+paperurl: 'https://www.researchgate.net/profile/Esteban-Municio/publication/353451933_Achieving_End-to-End_Connectivity_in_Global_Multi-Domain_Networks/links/60fe66dd2bf3553b291076e9/Achieving-End-to-End-Connectivity-in-Global-Multi-Domain-Networks.pdf'
+citation: 'Municio, Esteban, Mert Cevik, Paul Ruth, and Johann M. Marquez-Barja. &quot;Achieving End-to-End Connectivity in Global Multi-Domain Networks.&quot; <i> In IEEE INFOCOM 2021-IEEE Conference on Computer Communications Workshops </i>(INFOCOM WKSHPS), pp. 1-6. IEEE, 2021'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.researchgate.net/profile/Esteban-Municio/publication/353451933_Achieving_End-to-End_Connectivity_in_Global_Multi-Domain_Networks/links/60fe66dd2bf3553b291076e9/Achieving-End-to-End-Connectivity-in-Global-Multi-Domain-Networks.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
