@@ -15,11 +15,13 @@ Esteban Municio (Madrid) is a postdoctoral researcher at imec - University of An
 
 **Keywords**: end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
 
+*You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Aug2021.pdf)
+
 Education
 ======
 * BSc+MSc in Telecommunications Engineering, Universidad Politécnica de Madrid, 2013
 * MSc in Networks and Computer Systems, Universidad Rey Juan Carlos, 2014
-* Ph.D in Computer Science, Universiteit Antwerpen, 2020
+* PhD in Computer Science, Universiteit Antwerpen, 2020
 
 Work experience
 ======
@@ -44,15 +46,6 @@ isolated rural communities in developing countries based on cellular 3G/4G femto
 about rural, decentralized wireless networks
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,7 +54,12 @@ Publications
 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017 - 2018: **Lab Teaching Assistant** at University of Antwerp, Antwerp (Belgium)
+    * [Computer and Network Security](https://www.inictel-uni.edu.pe/), Master of Computer Science: Computer Networks and Distributed Systems (6 ECTS) - 1st Semester
+
+* 2016 - 2017: **Lab Teaching Assistant** at University of Antwerp, Antwerp (Belgium)
+    * [Computer and Network Security](https://www.inictel-uni.edu.pe/), Master of Computer Science: Computer Networks and Distributed Systems (6 ECTS) - 1st Semester
+
+* Oct 2012: **Lab Teaching Assistant** at INICTEL-UNI, National University of Engineering
+    * [1st Workshop of rural Telecommunications](https://core.ac.uk/download/pdf/12001778.pdf), "Design and implementation of open-source wireless mesh networks solutions for isolated communities"
 
