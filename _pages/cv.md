@@ -55,14 +55,16 @@ Publications
 Teaching and MSc supervision
 ======
 * 2018 - 2019: **MSc co-supervisor** at University of Antwerp, Antwerp (Belgium)
-    * Niels Balemans. <i>Softwarized Internet of Things Networks</i> - [Master of Electronics and ICT Engineering Technology](https://www.uantwerpen.be/en/study/programmes/all-programmes/electronics-and-ict-technology/about-the-programme/)
+    * Niels Balemans. <i>Softwarized Internet of Things Networks</i>
+    * [Thesis of Master of Electronics and ICT Engineering Technology](https://www.uantwerpen.be/en/study/programmes/all-programmes/electronics-and-ict-technology/about-the-programme/)
 
 
 * 2017 - 2018: **Lab Teaching Assistant** at University of Antwerp, Antwerp (Belgium)
     * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems (6 ECTS) - 1st Semester
 
 * 2017 - 2018: **MSc co-supervisor** at University of Antwerp, Antwerp (Belgium)
-    * Bruno van de Velde. <i>Elaborate Energy Consumption Modelling for OpenWSN</i> - [Master of Computer Science: Computer Networks and Distributed Systems](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en)
+    * Bruno van de Velde. <i>Elaborate Energy Consumption Modelling for OpenWSN</i>
+    * [Thesis of Master of Computer Science: Computer Networks and Distributed Systems](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en)
 
 * 2016 - 2017: **Lab Teaching Assistant** at University of Antwerp, Antwerp (Belgium)
     * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems (6 ECTS) - 1st Semester
