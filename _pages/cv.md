@@ -11,11 +11,11 @@ redirect_from:
 
 Short Bio
 ======
-Esteban Municio (Madrid) is a postdoctoral researcher at imec - University of Antwerp, in the Faculty of Applied Engineering. He received a B.Sc+M.Sc. degree of Telecommunication Engineering from the Madrid Polytechnic University (UPM) in 2013 and a M.Sc degree in Networks and Computer Systems from the King Juan Carlos University (URJC) in 2014. He obtained his PhD in Computer Science in the University of Antwerp in 2020. He was and is involved in several European research projects such as TUCAN3G, FlexNet, ProTego, InterConnect, Vital-5G and DAEMON. His main research interests are: traffic engineering, SDN, end-to-end network slicing, TSN, programmable wireless networks and ultra-reliable Industrial IoT. He is also interested in heterogeneous backhaul networks, smart cities deployments, community networks and connectivity provision in rural environments.
+Esteban Municio (Madrid) is a postdoctoral researcher at imec - University of Antwerp, in the Faculty of Applied Engineering. He received a B.Sc+M.Sc degree of Telecommunication Engineering from the Madrid Polytechnic University (UPM) in 2013 and a M.Sc degree in Networks and Computer Systems from the King Juan Carlos University (URJC) in 2014. He obtained his PhD in Computer Science in the University of Antwerp in 2020. He was and is involved in several European research projects such as TUCAN3G, FlexNet, ProTego, InterConnect, Vital-5G and DAEMON. His main research interests are: traffic engineering, SDN, end-to-end network slicing, TSN, programmable wireless networks and ultra-reliable Industrial IoT. He is also interested in heterogeneous backhaul networks, smart cities deployments, community networks and connectivity provision in rural environments.
 
 **Keywords**: end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
 
-*You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Aug2021.pdf)
+You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Aug2021.pdf)
 
 Education
 ======
@@ -60,14 +60,16 @@ Teaching and MSc supervision
 
 
 * 2017 - 2018: **Lab Teaching Assistant** at University of Antwerp, Antwerp (Belgium)
-    * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems (6 ECTS) - 1st Semester
+    * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems 
+    * (6 ECTS) - 1st Semester
 
 * 2017 - 2018: **MSc co-supervisor** at University of Antwerp, Antwerp (Belgium)
     * Bruno van de Velde. <i>Elaborate Energy Consumption Modelling for OpenWSN</i>
     * [Thesis of Master of Computer Science: Computer Networks and Distributed Systems](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en)
 
 * 2016 - 2017: **Lab Teaching Assistant** at University of Antwerp, Antwerp (Belgium)
-    * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems (6 ECTS) - 1st Semester
+    * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems 
+    * (6 ECTS) - 1st Semester
 
 * Oct 2012: **Lab Teaching Assistant** at INICTEL-UNI, National University of Engineering
     * [1st Workshop of rural Telecommunications](https://core.ac.uk/download/pdf/12001778.pdf), "Design and implementation of open-source wireless mesh networks solutions for isolated communities"
