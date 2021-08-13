@@ -71,6 +71,6 @@ Teaching and MSc supervision
     * [Computer and Network Security](https://www.uantwerpen.be/en/study/programmes/all-programmes/computer-science-computer-networks/study-programme/?id=2021-2001WETINR&lang=en), Master of Computer Science: Computer Networks and Distributed Systems 
     * (6 ECTS) - 1st Semester
 
-* Oct 2012: **Lab Teaching Assistant** at INICTEL-UNI, National University of Engineering
+* Oct 2012: **Lab Teaching Assistant** at National University of Engineering, Lima (Peru)
     * [1st Workshop of rural Telecommunications](https://core.ac.uk/download/pdf/12001778.pdf), "Design and implementation of open-source wireless mesh networks solutions for isolated communities"
 
