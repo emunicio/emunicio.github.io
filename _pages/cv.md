@@ -52,6 +52,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Open source projects I have collaborated in:
+======
+* **Whisper** - [https://github.com/imec-idlab/whisper-repository](https://github.com/imec-idlab/whisper-repository)
+    * Software suite to use Whisper as a SDN-on-IoT solution in a 6TiSCH network with support of  external network control (an ONOS controller).
+
+* **6TiSCH Simulator** - [https://bitbucket.org/6tisch/simulator/src/master/](https://github.com/imec-idlab/whisper-repository)
+    * This simulator implements the 6TiSCH protocol stack, exactly as it is standardized. It allows you to measure the performance of a 6TiSCH network under different conditions.
+
+* **Long distance links simulator** - [https://github.com/emunicio/long-distance-tucan3g](https://github.com/imec-idlab/whisper-repository)
+    * Software to simulate long distance WiFi and WiMAX links using the ns-3 simulator.
+
 Teaching and MSc supervision
 ======
 * 2018 - 2019: **MSc co-supervisor** at University of Antwerp, Antwerp (Belgium)
