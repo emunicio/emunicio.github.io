@@ -11,9 +11,9 @@ redirect_from:
 
 Short Bio
 ======
-Esteban Municio (Madrid) is a postdoctoral researcher at imec - University of Antwerp, in the Faculty of Applied Engineering. He received a B.Sc+M.Sc degree of Telecommunication Engineering from the Madrid Polytechnic University (UPM) in 2013 and a M.Sc degree in Networks and Computer Systems from the King Juan Carlos University (URJC) in 2014. He obtained his PhD in Computer Science in the University of Antwerp in 2020. He was and is involved in several European research projects such as TUCAN3G, FlexNet, ProTego, InterConnect, Vital-5G and DAEMON. His main research interests are: traffic engineering, SDN, end-to-end network slicing, TSN, programmable wireless networks and ultra-reliable Industrial IoT. He is also interested in heterogeneous backhaul networks, smart cities deployments, community networks and connectivity provision in rural environments.
+Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwerp in 2020. He then joined imec, Belgium, as postdoctoral researcher. Since January 2022, he has been with i2CAT, where currently he is a research scientist in the AI-driven Systems group. His research interests are in the field of programmable open networks, Time-Sensitive Networking and ultra-reliable Industrial IoT.
 
-**Keywords**: end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
+**Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
 
 You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Aug2021.pdf)
 
@@ -25,7 +25,12 @@ Education
 
 Work experience
 ======
-* 2019 - ongoing: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
+* 2022 - ongoing: **Postdoc Researcher** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
+  * i2CAT
+  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), SNS-JU [BeGREEN](https://digital-strategy.ec.europa.eu/en/policies/smart-networks-and-services-joint-undertaking)
+  * Different topics related with AI-driven network automation, ISAC systems and Reconfigurable Intelligent Surfaces
+
+* 2019 - 2021: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
   * imec - Universiteit Antwerpen
   * Various projects: Celtic+ [FlexNet](https://www.celticnext.eu/project-flexnet/), H2020 [ProTego](https://protego-project.eu/), H2020 [DAEMON](https://h2020daemon.eu/), H2020 [Vital-5G](https://www.vital5g.eu/), H2020 [InterConnect](https://interconnectproject.eu/), ICON [Smart Waterway](https://www.imec-int.com/en/research-portfolio/smartwaterway)
   * Different topics related with end-to-end programmable networks and Industrial IoT
@@ -57,14 +62,15 @@ Open source projects I have collaborated in:
 * **Whisper** - [https://github.com/imec-idlab/whisper-repository](https://github.com/imec-idlab/whisper-repository)
     * Software suite to use Whisper as a SDN-on-IoT solution in a 6TiSCH network with support of  external network control (an ONOS controller).
 
-* **6TiSCH Simulator** - [https://bitbucket.org/6tisch/simulator/src/master/](https://github.com/imec-idlab/whisper-repository)
+* **6TiSCH Simulator** - [https://bitbucket.org/6tisch/simulator/src/master/](https://bitbucket.org/6tisch/simulator/src/master/)
     * This simulator implements the 6TiSCH protocol stack, exactly as it is standardized. It allows you to measure the performance of a 6TiSCH network under different conditions.
 
-* **Long distance links simulator** - [https://github.com/emunicio/long-distance-tucan3g](https://github.com/imec-idlab/whisper-repository)
+* **Long distance links simulator** - [https://github.com/emunicio/long-distance-tucan3g](https://github.com/emunicio/long-distance-tucan3g)
     * Software to simulate long distance WiFi and WiMAX links using the ns-3 simulator.
 
 Teaching and MSc supervision
 ======
+
 * 2018 - 2019: **MSc co-supervisor** at University of Antwerp, Antwerp (Belgium)
     * Niels Balemans. <i>Softwarized Internet of Things Networks</i>
     * [Thesis of Master of Electronics and ICT Engineering Technology](https://www.uantwerpen.be/en/study/programmes/all-programmes/electronics-and-ict-technology/about-the-programme/)
