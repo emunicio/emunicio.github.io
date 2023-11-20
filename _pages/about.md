@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Telecommunication Engineer and Ph.D in Computer Science. I am currently working as a postdoctoral researcher at i2CAT, AI-Driven Systems group (Barcelona, Spain) in the field of AI-driven network automation, Open RAN, Time Sensitive Networking and 5G network security. Currently, I am also Adjunct Professor at Universidad Carlos III de Madrid, teaching 5G and Wireless Networking within the Master in Connected Industry 4.0.
+Telecommunication Engineer and Ph.D in Computer Science. I am currently working as a senior researcher at i2CAT, AI-Driven Systems group (Barcelona, Spain) in the field of AI-driven network automation, Open RAN, Time Sensitive Networking and 5G network security. Currently, I am also Adjunct Professor at Universidad Carlos III de Madrid, teaching 5G and Wireless Networking within the Master in Connected Industry 4.0.
 
 I received a B.Sc+M.Sc in Telecommunication Engineering from Universidad Politécnica de Madrid (UPM) in 2013 and a M.Sc in Networks and Computer Systems from the Universidad Rey Juan Carlos (URJC) in 2014. I got a PhD in Computer Science at Universiteit Antwerpen in 2020. I have been involved in some European research projects such as FP7 TUCAN3G, Celtic+ FlexNet, H2020 ProTego, H2020 InterConnect and H2020 Vital-5G. I am currently working in H2020 DAEMON and SNS-JU BeGREEN.
 
