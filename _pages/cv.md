@@ -15,7 +15,7 @@ Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwer
 
 **Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
 
-You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Aug2021.pdf)
+You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Nov23.pdf)
 
 Education
 ======
@@ -25,7 +25,7 @@ Education
 
 Work experience
 ======
-* 2022 - ongoing: **Postdoc Researcher** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
+* 2022 - ongoing: **Senior Researcher** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
   * i2CAT
   * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), SNS-JU [BeGREEN](https://digital-strategy.ec.europa.eu/en/policies/smart-networks-and-services-joint-undertaking)
   * Different topics related with AI-driven network automation, ISAC systems and Reconfigurable Intelligent Surfaces
@@ -50,26 +50,12 @@ isolated rural communities in developing countries based on cellular 3G/4G femto
   * Deployment of a wireless mesh network in a high-Andean rural ecosystem and teaching workshops
 about rural, decentralized wireless networks
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Open source projects I have collaborated in:
-======
-* **Whisper** - [https://github.com/imec-idlab/whisper-repository](https://github.com/imec-idlab/whisper-repository)
-    * Software suite to use Whisper as a SDN-on-IoT solution in a 6TiSCH network with support of  external network control (an ONOS controller).
-
-* **6TiSCH Simulator** - [https://bitbucket.org/6tisch/simulator/src/master/](https://bitbucket.org/6tisch/simulator/src/master/)
-    * This simulator implements the 6TiSCH protocol stack, exactly as it is standardized. It allows you to measure the performance of a 6TiSCH network under different conditions.
-
-* **Long distance links simulator** - [https://github.com/emunicio/long-distance-tucan3g](https://github.com/emunicio/long-distance-tucan3g)
-    * Software to simulate long distance WiFi and WiMAX links using the ns-3 simulator.
-
 Teaching and MSc supervision
 ======
+
+* 2023 - 2024: **Adjunct Professor** at Universidad Carlos III Madrid
+     * [5G and Wireless Networking](https://www.uc3m.es/master/connected-industry-4.0#curriculum), Master in Connected Industry 4.0
+    * (3 ECTS) - 1st Semester
 
 * 2018 - 2019: **MSc co-supervisor** at University of Antwerp, Antwerp (Belgium)
     * Niels Balemans. <i>Softwarized Internet of Things Networks</i>
@@ -91,3 +77,19 @@ Teaching and MSc supervision
 * Oct 2012: **Lab Teaching Assistant** at National University of Engineering, Lima (Peru)
     * [1st Workshop of rural Telecommunications](https://core.ac.uk/download/pdf/12001778.pdf), "Design and implementation of open-source wireless mesh networks solutions for isolated communities"
 
+Open source projects I have collaborated in:
+======
+* **Whisper** - [https://github.com/imec-idlab/whisper-repository](https://github.com/imec-idlab/whisper-repository)
+    * Software suite to use Whisper as a SDN-on-IoT solution in a 6TiSCH network with support of  external network control (an ONOS controller).
+
+* **6TiSCH Simulator** - [https://bitbucket.org/6tisch/simulator/src/master/](https://bitbucket.org/6tisch/simulator/src/master/)
+    * This simulator implements the 6TiSCH protocol stack, exactly as it is standardized. It allows you to measure the performance of a 6TiSCH network under different conditions.
+
+* **Long distance links simulator** - [https://github.com/emunicio/long-distance-tucan3g](https://github.com/emunicio/long-distance-tucan3g)
+    * Software to simulate long distance WiFi and WiMAX links using the ns-3 simulator.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
