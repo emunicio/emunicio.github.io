@@ -27,7 +27,7 @@ Work experience
 ======
 * 2022 - ongoing: **Senior Researcher** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
   * i2CAT
-  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), SNS-JU [BeGREEN](https://digital-strategy.ec.europa.eu/en/policies/smart-networks-and-services-joint-undertaking)
+  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), HORIZON-JU-SNS BeGREEN [BeGREEN](https://www.sns-begreen.com/)
   * Different topics related with AI-driven network automation, ISAC systems and Reconfigurable Intelligent Surfaces
 
 * 2019 - 2021: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
