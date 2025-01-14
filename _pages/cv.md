@@ -15,7 +15,7 @@ Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwer
 
 **Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
 
-You can find my academic CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Nov23.pdf)
+You can find my CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Nov23.pdf)
 
 Education
 ======
@@ -27,7 +27,7 @@ Work experience
 ======
 * 2022 - ongoing: **Senior Researcher** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
   * i2CAT
-  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), HORIZON-JU-SNS BeGREEN [BeGREEN](https://www.sns-begreen.com/)
+  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), HORIZON-JU-SNS BeGREEN [BeGREEN](https://www.sns-begreen.com/), HORIZON-JU-SNS ORIGAMI [ORIGAMI](https://sns-origami.eu/)
   * Different topics related with AI-driven network automation, ISAC systems and Reconfigurable Intelligent Surfaces
 
 * 2019 - 2021: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
@@ -50,10 +50,10 @@ isolated rural communities in developing countries based on cellular 3G/4G femto
   * Deployment of a wireless mesh network in a high-Andean rural ecosystem and teaching workshops
 about rural, decentralized wireless networks
 
-Teaching and MSc supervision
+Academia
 ======
 
-* 2023 - 2024: **Adjunct Professor** at Universidad Carlos III Madrid
+* 2023 - 2025: **Associate Professor** at Universidad Carlos III Madrid
      * [5G and Wireless Networking](https://www.uc3m.es/master/connected-industry-4.0#curriculum), Master in Connected Industry 4.0
     * (3 ECTS) - 1st Semester
 
