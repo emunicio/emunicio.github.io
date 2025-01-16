@@ -15,7 +15,7 @@ Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwer
 
 **Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
 
-You can find my CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Nov23.pdf)
+You can find my CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Jan25.pdf)
 
 Education
 ======
@@ -30,7 +30,7 @@ Work experience
   * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), HORIZON-JU-SNS BeGREEN [BeGREEN](https://www.sns-begreen.com/), HORIZON-JU-SNS ORIGAMI [ORIGAMI](https://sns-origami.eu/)
   * Different topics related with AI-driven network automation, ISAC systems and Reconfigurable Intelligent Surfaces
 
-* 2019 - 2021: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
+* 2020 - 2022: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
   * imec - Universiteit Antwerpen
   * Various projects: Celtic+ [FlexNet](https://www.celticnext.eu/project-flexnet/), H2020 [ProTego](https://protego-project.eu/), H2020 [DAEMON](https://h2020daemon.eu/), H2020 [Vital-5G](https://www.vital5g.eu/), H2020 [InterConnect](https://interconnectproject.eu/), ICON [Smart Waterway](https://www.imec-int.com/en/research-portfolio/smartwaterway)
   * Different topics related with end-to-end programmable networks and Industrial IoT
