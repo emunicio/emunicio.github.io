@@ -11,9 +11,9 @@ redirect_from:
 
 Short Bio
 ======
-Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwerp in 2020. He then joined imec, Belgium, as postdoctoral researcher. Since January 2022, he has been with i2CAT, where currently he is a research scientist in the AI-driven Systems group. His research interests are in the field of programmable open networks, Time-Sensitive Networking and ultra-reliable Industrial IoT.
+Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwerp in 2020. He then joined imec, Belgium, as postdoctoral researcher. Since January 2022, he has been with i2CAT, where currently he is a research scientist in the AI-driven Systems group. His research interests are in the field of programmable open networks, Time-Sensitive Networking, Non-Terrestial Networks and ultra-reliable Industrial IoT.
 
-**Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 4G/5G, TSN, SDN, network slicing, testbed experimentation, ICT4D
+**Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 5G/6G, TSN, SDN, network slicing, NTN, testbed experimentation, ICT4D
 
 You can find my CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_resume_Jan25.pdf)
 
@@ -25,10 +25,10 @@ Education
 
 Work experience
 ======
-* 2022 - ongoing: **Senior Researcher** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
+* 2022 - ongoing: **Senior Researcher, Research Line Leader - Sustainable 6G vRANs** at [AI-Driven Systems](https://i2cat.net/research-topics/ai-driven-systems/), Barcelona (Spain)
   * i2CAT
-  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), HORIZON-JU-SNS BeGREEN [BeGREEN](https://www.sns-begreen.com/), HORIZON-JU-SNS ORIGAMI [ORIGAMI](https://sns-origami.eu/)
-  * Different topics related with AI-driven network automation, ISAC systems and Reconfigurable Intelligent Surfaces
+  * Various projects: H2020 [DAEMON](https://h2020daemon.eu/), HORIZON-JU-SNS BeGREEN [BeGREEN](https://www.sns-begreen.com/), HORIZON-JU-SNS ORIGAMI [ORIGAMI](https://sns-origami.eu/), ARTES 4.0 4S SPL SULFUR
+  * Different topics related with AI-driven network automation, ISAC systems and Non-Terrestial Networks.
 
 * 2020 - 2022: **Postdoc Researcher** at [IDLab](https://www.uantwerpen.be/en/research-groups/idlab/), Antwerpen (Belgium)
   * imec - Universiteit Antwerpen
