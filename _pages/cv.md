@@ -15,7 +15,7 @@ Esteban Municio (Madrid) received his Ph.D. degree from the University of Antwer
 
 **Keywords**: O-RAN, end-to-end programmable networks, Industrial IoT, network orchestration, Wi-Fi, 5G/6G, TSN, SDN, network slicing, NTN, testbed experimentation, ICT4D
 
-You can find my CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_CV_May2026.pdf)
+You can find my CV [here](https://github.com/emunicio/emunicio.github.io/blob/master/files/Esteban_Municio_CV_July2026.pdf)
 
 Education
 ======
